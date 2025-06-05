@@ -13,6 +13,7 @@
 - 모바일: 메뉴 2열 정렬 + 콘텐츠 단일 컬럼
 
 ## 📂 폴더 구조
+<pre><code>
 responsive-layout-practice/
 ├── index.html
 ├── css/
@@ -20,6 +21,7 @@ responsive-layout-practice/
 │ └── style.css
 ├── img/
 │ └── main_img02.png
+</code></pre>
 
 
 ## 🧑‍💻 만든 사람
